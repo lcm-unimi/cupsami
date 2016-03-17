@@ -2,7 +2,6 @@
 #python local cupsatore
 #ask to cups server user's jobs infos
 #20110311 giorgio_ruffa
-#5 realise
 
 # debuggato da blue (28 Gen 2014): il server non restituiva piu' job-name tra gli attributi,
 # ho tolto tutto quello che lo riguardava dallo script
